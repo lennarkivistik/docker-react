@@ -8,7 +8,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <p>Lennar FrontEnd Yolo 2</p>
+          <p>Feature Branch</p>
         </header>
       </div>
     );
